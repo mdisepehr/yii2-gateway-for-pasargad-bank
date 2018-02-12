@@ -1,0 +1,21 @@
+{
+    "name": "mdisepehr/yii2-gateway-for-pasargad-bank",
+    "description": "Yii2 Gateway for Pasargad Bank",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","pasargad bank"],
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "sepehr mehdipour",
+            "email": "botdehi@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mdisepehr\\pasargad\\": ""
+        }
+    }
+}
